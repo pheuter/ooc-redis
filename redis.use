@@ -1,0 +1,6 @@
+Name: redis
+Description: Minimalistic client for Redis based off of hiredis
+Version: 1.2
+SourcePath: .
+Includes: hiredis.h
+Libs: -lhiredis
