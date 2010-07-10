@@ -6,7 +6,7 @@ About
 Install
 =======
 
-1.  Install [hiredis](http://github.com/antirez/hiredis.git)
+1.  Install [hiredis](http://github.com/antirez/hiredis)
 2.  In your $OOC_LIBS directory, ``git clone http://github.com/gmaster1440/redis-ooc.git``
 3.  See ``sample/list.ooc`` for a sample program
 	
